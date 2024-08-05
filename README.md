@@ -144,7 +144,7 @@ JA0J0-6CL9H-HA4M1-TA3X4-9AUH0
 
 
 
-## VMware vRealize Suite 2019 Enterprise (兼容vRealize Operations 8.x.x)
+## VMware vRealize Suite 2019 Enterprise (Compatible with vRealize Operations 8.x.x)
 
 NZ0WK-A2H1Q-0A0L1-RACGP-0GK38
 
