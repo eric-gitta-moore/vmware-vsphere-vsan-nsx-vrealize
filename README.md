@@ -4,6 +4,7 @@ Licenses for each version of vmware series products (Special for testing)
 
 
 # Download
+> No Ads! Tks
 
 - https://sysin.org/blog/vmware/
 - https://www.dinghui.org/vmware-iso-download.html
